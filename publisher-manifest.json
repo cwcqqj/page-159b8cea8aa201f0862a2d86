@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "6df2339bdff464bb81f8cb68",
+  "owner": "cwcqqj",
+  "repo": "page-159b8cea8aa201f0862a2d86",
+  "title": "歪兔(YToo)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "159b8cea8aa201f0862a2d86",
+      "a": "歪兔(YToo)",
+      "b": "免费订阅节点",
+      "entity": "歪兔(YToo)",
+      "brand": "歪兔(YToo)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "96d4518363f2caa3de2b1859c2cab4cb3c7de8bccfccb058633d16ec195c398e",
+      "content": {
+        "primary_entity": "歪兔(YToo)",
+        "keyword1": "歪兔(YToo)",
+        "keyword2": "免费订阅节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "Windows、macOS、Android、iOS 及路由器可按需选用适配客户端，订阅链接在不同客户端间通用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "先对照设备与流量需求选定套餐，再按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐轻松连接",
+          "AI_DESCRIPTION": "，围绕 Windows、macOS、Android、iOS 及路由器场景提供订阅配置指引。基础版适合轻度使用，旗舰版兼顾流媒体与游戏加速，团队版面向多设备与高带宽需求。按年付可节省两个月费用，设备数量与流量按套餐区分，选择前可对照日常使用习惯。",
+          "AI_FEATURES_INTRO": "从套餐、设备与订阅周期三个维度快速定位。",
+          "AI_FEATURES_TITLE": "快速了解配置要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台设备。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB 支持 20 台设备，适合多终端并行使用。",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供按年付方案，年付价格为月付十个月的水平。",
+          "AI_FEATURE_TITLE_1": "套餐按需选择",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "选择服务、确认设备适配、导入订阅，三步完成配置。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "歪兔(YToo)面向海外加速场景，提供基础版、旗舰版与团队版三档套餐，覆盖每月 100GB 至 1000GB 流量，支持 3 至 20 台设备同时在线，并针对流媒体与游戏加速提供不同线路选择。",
+          "AI_HERO_SUBTITLE": "歪兔多档套餐按需选",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 100GB 至 1000GB 流量",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "按年付享两个月价格优惠",
+          "AI_PLANS_INTRO": "基础版每月 15 元含 100GB 流量与 3 台设备，旗舰版每月 35 元含 300GB 流量与 5 台设备，团队版每月 85 元含 1000GB 流量与 20 台设备。按年付分别只需 150 元、350 元与 850 元。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认所用设备在支持列表内，查看对应客户端的适配要求。",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅链接，完成节点配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "歪兔多设备加速方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "歪兔套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "先看每月流量和同时在线设备数。1 至 3 台设备、100GB 以内选基础版；多设备并需要流媒体和游戏优化选旗舰版；20 台设备或团队共享选团队版。",
+          "AI_FAQ_QUESTION_2": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。按月付一年总价高于年付价格，年付更省。",
+          "AI_FAQ_QUESTION_3": "支持几台设备同时在线？",
+          "AI_FAQ_ANSWER_3": "基础版 3 台，旗舰版 5 台，团队版 20 台。超出数量时其他设备需要等待或升级套餐，按自己的常用设备数选择版本即可。",
+          "AI_FAQ_QUESTION_4": "订阅怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "选择与设备系统对应的客户端，打开客户端后按文档说明添加订阅信息，保存并更新节点，然后选择节点连接。不同客户端步骤略有差异。",
+          "AI_FAQ_QUESTION_5": "旗舰版和基础版有什么区别？",
+          "AI_FAQ_ANSWER_5": "旗舰版流量从 100GB 升到 300GB，在线设备从 3 台升到 5 台，提供全节点原生流媒体解锁和 IPLC 专线游戏加速，以及优先工单支持。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "68edb1219ab52f75c4075b3176567926d94a65f50ebd8e166f5d417dde41c10b",
+    "sitemap.xml": "593cbf5fee591aff943fa9d38ba7c608a37bbf09f8f9d7ebfca0533427949144",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "adac79628c68d9669738dccf980a0b569f978a90c991c4114dbfea3c79368014"
+}
